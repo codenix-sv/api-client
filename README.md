@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/codenix-sv/api-client.svg?branch=master)](https://travis-ci.org/codenix-sv/api-client)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/codenix-sv/api-client/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/codenix-sv/api-client/?branch=master)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b494f68f06e75d45fc68/test_coverage)](https://codeclimate.com/github/codenix-sv/api-client/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b494f68f06e75d45fc68/maintainability)](https://codeclimate.com/github/codenix-sv/api-client/maintainability)
 [![License: MIT](https://img.shields.io/github/license/codenix-sv/api-client)](https://github.com/codenix-sv/api-client/blob/master/LICENSE)
 
 
